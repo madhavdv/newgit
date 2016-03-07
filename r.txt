@@ -5,3 +5,4 @@ another in rr
 in rr
 >>>>>>> rr
 conflict
+conflict1
