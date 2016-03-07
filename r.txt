@@ -1,4 +1,1 @@
-another in rr
 in rr
-conflict1
-another file3
