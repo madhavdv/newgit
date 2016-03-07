@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 in master
-=======
 another in rr
 in rr
->>>>>>> rr
+rr
 conflict
 conflict1
+another time
